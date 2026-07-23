@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hi, I'm Tenzin
 
-<!--
-**tenzinM/tenzinM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software developer based in Toronto, ON, with 3 years of experience building web applications — Java/Spring Boot on the backend, React and AngularJS on the frontend.
 
-Here are some ideas to get you started:
+🔭 Currently building out **E-Feed**, a full-stack social platform (AngularJS + Java/Spring Boot) with posts, polls, likes/comments, and role-based permissions — and polishing my portfolio site.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Exploring cloud platforms (AWS) and sharpening my Python, alongside daily use of AI-assisted dev tools (GitHub Copilot, ChatGPT) as part of my workflow.
+
+💼 Open to full-stack developer roles in Toronto — reach out if you're hiring or know someone who is!
+
+📫 Reach me: tenzmetok598@gmail.com
+· [LinkedIn](https://linkedin.com/in/tenzin-metok-3113361b1) 
+· [Portfolio](https://tenzinm.github.io/tenzin-portfolio/)
