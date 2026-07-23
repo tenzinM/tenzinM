@@ -11,3 +11,7 @@ Full-stack software developer based in Toronto, ON, with 3 years of experience b
 📫 Reach me: tenzmetok598@gmail.com
 · [LinkedIn](https://linkedin.com/in/tenzin-metok-3113361b1) 
 · [Portfolio](https://tenzinm.github.io/tenzin-portfolio/)
+
+💻 Tech Stack:
+
+JavaScript TypeScript Java Springboot ReactJS AngularJS HTML5 AWS Chart.js Context-API FastAPI Express.js NodeJS Next JS NPM  TailwindCSS MongoDB MySQL Git GitHub Jira AI tools
